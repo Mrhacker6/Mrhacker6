@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Singh</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-<img align="right" alt="coding" width="400 src"https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhya3BsMHBzZ2dneXY0ZGhlYmQ1d3pjbGtodDk1dGVhZjh6Z3ZjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrhacker6&label=Profile%20views&color=0e75b6&style=flat" alt="mrhacker6" /> </p>
 
 - 🔭 I’m currently working on **Supervised ML**
