@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Mrhacker6
-- 👀 I’m interested in Netowrking and Cyber Security
-- 🌱 I’m currently learning Networking
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m Yash
+- 👀 I’m interested in AI/ML and Cyber Security
+- 🌱 I’m Currently Pursuing PG
+- 💞️ I’m looking forward to contribute
 - 📫 How to reach me 
-- Aah... Just email me <yashs8251@gmail.com>
+- Aah... Just email me <techyashs2179@gmail.com>
 -                 HAVE A GOOD DAY ...!
 
 <!---
